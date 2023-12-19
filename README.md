@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Wardha-kashif
-- 🌱 I’m currently learning Python
 
 
 <!---
